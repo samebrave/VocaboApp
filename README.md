@@ -20,7 +20,7 @@ This is a simple yet powerful dictionary application built using MVVM architectu
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/username/dictionary-application.git
+   git clone https://github.com/samebrave/VocaboApp.git
 
 # Screenshots
 ![ss](https://github.com/samebrave/VocaboApp/blob/master/app/src/main/java/sam/projects/vocaboapp/images/2.png)
